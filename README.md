@@ -1,4 +1,4 @@
 # Responsive Landing-Page
 
-# Demo link
-(https://prince7858.github.io/landing-page/)
+# Live Demo
+[view the live site here](https://prince7858.github.io/landing-page/)
